@@ -5,9 +5,9 @@ thecoolguya123/Make-Termux-look-like-ubuntu is an addon that makes Termux look l
 # Commands
 To install the script, simply run
 ```
-wget https://raw.githubusercontent.com/thecoolguya123/Make-Termux-look-like-ubuntu/main/lookalike.sh
+curl https://raw.githubusercontent.com/thecoolguya123/Make-Termux-look-like-ubuntu/main/lookalike.sh >> lookalike.sh
 ```
-then simply run
+then run
 ```
 bash lookalike.sh
 ```
